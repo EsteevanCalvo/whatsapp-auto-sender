@@ -231,7 +231,7 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para d
 
 **José Estevan Calvo Martinez**
 - Estudiante de Ingeniería de Software - Uninpahu
-- GitHub: [@tu-usuario](https://github.com/EsteevanCalvo)
+- GitHub: [@EsteevanCalvo](https://github.com/EsteevanCalvo)
 - LinkedIn: [estevancalvo](https://linkedin.com/in/estevancalvo)
 - Email: esteevancalvo2005@gmail.com
 
