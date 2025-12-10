@@ -265,7 +265,7 @@ Si encuentras este proyecto útil:
 - 📢 Comparte con otros
 
 Para dudas o soporte:
-- GitHub: [@tu-usuario](https://github.com/EsteevanCalvo)
+- GitHub: [@EsteevanCalvo](https://github.com/EsteevanCalvo)
 - LinkedIn: [estevancalvo](https://linkedin.com/in/estevancalvo)
 - Email: esteevancalvo2005@gmail.com
 ---
