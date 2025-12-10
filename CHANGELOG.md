@@ -4,7 +4,7 @@ Todos los cambios notables se documentarán aquí.
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
-## [1.0.0] - 2024-12-10
+## [1.0.0] - 2025-08-10
 
 ### Agregado
 - Lanzamiento inicial público
