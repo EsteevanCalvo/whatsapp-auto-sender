@@ -1,34 +1,46 @@
 # Registro de Cambios
 
-Todos los cambios notables de este proyecto se documentarán en este archivo.
+Todos los cambios notables se documentarán aquí.
 
-El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
-y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
+Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
-## [1.0.0] - 2024-10-XX
+## [1.0.0] - 2024-12-10
 
 ### Agregado
-- Lanzamiento inicial
-- Integración con OneDrive para descarga de Excel
+- Lanzamiento inicial público
+- Integración con OneDrive para descarga automática
 - Generación y apertura de URLs de WhatsApp
 - Procesamiento de fórmulas de Excel
-- Codificación/decodificación de URLs para visualización correcta de mensajes
-- Manual de usuario y documentación
-- Manejo de errores y recuperación
+- Codificación/decodificación de URLs
+- Manual de usuario completo
+- Manejo robusto de errores
 - Preview de mensajes antes de enviar
 - Estadísticas y resumen de envíos
+- Documentación técnica profesional
+
+### Características
+- Reduce tiempo de envío en 85%
+- Compatible con iOS 15+
+- Descarga automática de Excel actualizado
+- Control manual antes de cada envío
 
 ### Problemas Conocidos
-- Se requiere tap manual para enviar (limitación de iOS)
-- Limitado a 50-100 mensajes por hora (límites de WhatsApp)
-- Solo soporta mensajes de texto (sin multimedia)
+- Requiere tap manual para enviar (limitación iOS)
+- Limitado a 50-100 mensajes/hora (límites WhatsApp)
+- Solo soporta texto (sin multimedia por ahora)
 
 ## [No Publicado]
 
-### Planeado
-- Soporte para adjuntar imágenes
-- Integración con Google Sheets
-- Envío programado
-- Reportes de entrega
-- Plantillas de mensajes
-- Dashboard web de monitoreo
+### Planeado para v1.1.0
+- [ ] Soporte para adjuntar imágenes
+- [ ] Integración con Google Sheets
+- [ ] Envío programado
+- [ ] Reportes de entrega
+- [ ] Plantillas de mensajes
+- [ ] Dashboard web de monitoreo
+
+### En Consideración
+- [ ] Soporte para WhatsApp Business API
+- [ ] Aplicación con interfaz gráfica
+- [ ] Modo batch para grandes volúmenes
+- [ ] Integración con CRM

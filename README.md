@@ -185,8 +185,6 @@ El script puede adaptarse fácilmente:
 
 - [Manual de Usuario](docs/MANUAL_USUARIO.md) - Guía completa para usuarios finales
 - [Configuración de Excel](docs/SETUP_EXCEL.md) - Cómo preparar tu archivo
-- [Troubleshooting](docs/TROUBLESHOOTING.md) - Solución de problemas
-- [Preguntas Frecuentes](docs/FAQ.md) - Dudas comunes
 
 ## 🤝 Contribuir
 
@@ -204,7 +202,7 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 - **Limitación iOS**: No se puede automatizar completamente el envío (requiere tap manual)
 - **Límites WhatsApp**: Respetar límites (~50-100 mensajes/hora recomendado)
-- **Formato Excel**: Solo funciona con hipervínculos, no texto plano
+- **Formato Excel**: Solo funciona con hipervínculos, no texto plano según pruebas
 
 ## 🗺️ Roadmap
 
@@ -234,18 +232,18 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para d
 
 **José Estevan Calvo Martinez**
 - Estudiante de Ingeniería de Software - Uninpahu
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@tu-usuario](https://github.com/EsteevanCalvo)
 - LinkedIn: [estevancalvo](https://linkedin.com/in/estevancalvo)
 - Email: esteevancalvo2005@gmail.com
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
 - Desarrollado como proyecto freelance real
 - Cliente que confió en un estudiante para resolver su problema
 - Comunidad de a-Shell por soporte en iOS Python
 - @Fundación Universitaria Uninpahu por la formación
 
-## 📊 Estadísticas del Proyecto
+## Estadísticas del Proyecto
 
 - **Líneas de Código**: ~500
 - **Tiempo de Desarrollo**: 30+ horas
@@ -253,7 +251,7 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para d
 - **Versiones iOS Soportadas**: iOS 15+
 - **Estado**: ✅ En producción
 
-## 🔗 Proyectos Relacionados
+## Proyectos Relacionados
 
 - [a-Shell](https://github.com/holzschu/a-shell) - Unix shell para iOS
 - [openpyxl](https://openpyxl.readthedocs.io/) - Librería Python para Excel
@@ -268,11 +266,9 @@ Si encuentras este proyecto útil:
 - 📢 Comparte con otros
 
 Para dudas o soporte:
-- Abre un [Issue](https://github.com/tu-usuario/whatsapp-auto-sender/issues)
 - Contacta por [email](mailto:esteevancalvo2005@gmail.com)
-
 ---
 
-**Hecho con ❤️ por un estudiante para ayudar a empresas**
+**Hecho con amor por un estudiante para ayudar a empresas**
 
 *Última actualización: Octubre 2024*
