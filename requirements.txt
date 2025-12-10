@@ -1,0 +1,9 @@
+# Dependencias del proyecto
+pandas>=1.3.0
+openpyxl>=3.0.0
+requests>=2.25.0
+
+# Opcional para desarrollo
+# pytest>=6.0.0
+# black>=21.0
+# pylint>=2.0.0
