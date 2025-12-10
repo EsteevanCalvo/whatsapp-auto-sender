@@ -183,8 +183,7 @@ El script puede adaptarse fácilmente:
 
 ## 📖 Documentación
 
-- [Manual de Usuario](docs/MANUAL_USUARIO.md) - Guía completa para usuarios finales
-- [Configuración de Excel](docs/SETUP_EXCEL.md) - Cómo preparar tu archivo
+**En Proceso**
 
 ## 🤝 Contribuir
 
@@ -266,9 +265,11 @@ Si encuentras este proyecto útil:
 - 📢 Comparte con otros
 
 Para dudas o soporte:
-- Contacta por [email](mailto:esteevancalvo2005@gmail.com)
+- GitHub: [@tu-usuario](https://github.com/EsteevanCalvo)
+- LinkedIn: [estevancalvo](https://linkedin.com/in/estevancalvo)
+- Email: esteevancalvo2005@gmail.com
 ---
 
-**Hecho con amor por un estudiante para ayudar a empresas**
+**Hecho con amor por un estudiante para ayudar a cualquiera**
 
-*Última actualización: Octubre 2024*
+*Última actualización: Diciembre 2025*
